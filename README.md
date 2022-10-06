@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Abisola Oseni
-- 👀 I’m interested in Frontend Engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JavaScript and Java
-- 💞️ I’m looking to collaborate for internships or full-time opportunities
 - 📫 How to reach me: feel free to send me a message!
 
 <!---
