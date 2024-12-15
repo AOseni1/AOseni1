@@ -1,4 +1,4 @@
--  I’m interested in Software and Data Engineering
+-Software and Data Engineering
 
 <!---
 AOseni1/AOseni1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
